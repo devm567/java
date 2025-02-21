@@ -1,4 +1,4 @@
-<span style="font-family: 'Fira Code';">
+<span style="font-family: 'Fira Code', 'monospace';">
 # Static keyword / Modifier in java
 
 - Static keyword can be applied to `variables`, `blocks`, `methods` and `inner classes`.
